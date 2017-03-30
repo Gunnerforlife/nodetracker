@@ -8,4 +8,4 @@ lib-cov
 *.gz
 
 
-./node_modules
+node_modules
